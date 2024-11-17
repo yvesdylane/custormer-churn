@@ -2,6 +2,8 @@
 
 🧑‍🎓 Student Name: Donfack Tsopfack Yves Dylane
 
+Please look at model3.py(adjusted model) and decision tree.py(base model)
+
 
 🌟 INTRODUCTION 🌟
 
